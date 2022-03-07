@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LiveDataDemoApp</string>
+
+    <string name="button_title">Tap on me!</string>
+</resources>
